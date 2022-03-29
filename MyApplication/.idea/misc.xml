@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/drawable/gradientbackground.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/drawable/ic_top_24.xml" value="0.2375" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/layout/fragment_list.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/lmontes/Downloads/MyApplication/MyApplication/app/src/main/res/layout/item_user.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/sauln/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/gradientbackground.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/sauln/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/sauln/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_list.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/sauln/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.176" />
+        <entry key="..\:/Users/sauln/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_user.xml" value="0.1334853090172239" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11246200607902736" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.3555253623188406" />
+        <entry key="app/src/main/res/layout/fragment_maps.xml" value="0.21927083333333333" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/item_user.xml" value="0.3555253623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

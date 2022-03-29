@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- List strings -->
+    <string name="list_title">Select any user to see more info</string>
+    <!-- Item strings -->
+    <string name="item_placename">Nombre:</string>
+    <string name="item_address_name">Dirección:</string>
+    <!-- Profile strings -->
+    <string name="detail_adress">Dirección</string>
+    <string name="profile_country">Country</string>
+    <string name="profile_location">See location</string>
+</resources>
